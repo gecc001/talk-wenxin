@@ -13,7 +13,6 @@ Gitalk 是一个基于 Github Issue 和 Preact 开发的评论插件。
 - 快捷键提交评论 （cmd|ctrl + enter）
 
 [Readme](https://github.com/gecc001/talk-wenxin/blob/master/readme.md)
-[在线示例](https://gitalk.github.io)
 
 ## 安装
 
