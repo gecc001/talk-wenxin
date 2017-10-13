@@ -12,7 +12,7 @@ Gitalk 是一个基于 Github Issue 和 Preact 开发的评论插件。
 - 无干扰模式（设置 distractionFreeMode 为 true 开启）
 - 快捷键提交评论 （cmd|ctrl + enter）
 
-[Readme](https://github.com/gitalk/gitalk/blob/master/readme.md)
+[Readme](https://github.com/gecc001/talk-wenxin/blob/master/readme.md)
 [在线示例](https://gitalk.github.io)
 
 ## 安装
@@ -165,7 +165,7 @@ gitalk.render('gitalk-container')
 
 ## 贡献
 
-1. [Fork 代码仓库](https://github.com/gitalk/gitalk/fork) 并从 master 创建你的分支
+1. [Fork 代码仓库](https://github.com/gecc001/talk-wenxin/fork) 并从 master 创建你的分支
 2. 如果你添加的代码需要测试，请添加测试！
 3. 如果你修改了 API，请更新文档。
 4. 确保单元测试通过 (npm test).

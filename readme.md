@@ -13,7 +13,7 @@ Gitalk is a modern comment component based on Github Issue and Preact.
 - Facebook-like distraction free mode (Can be enabled via the `distractionFreeMode` option)
 - Hotkey submit comment (cmd|ctrl + enter)
 
-[中文说明](https://github.com/gitalk/gitalk/blob/master/readme-cn.md)
+[中文说明](https://github.com/gecc001/talk-wenxin/blob/master/readme-cn.md)
 [Demo](https://gitalk.github.io)
 
 ## Install
@@ -170,7 +170,7 @@ gitalk.render('gitalk-container')
 
 ## Contributing
 
-1. [Fork the repository](https://github.com/gitalk/gitalk/fork) and create your branch from master
+1. [Fork the repository](https://github.com/gecc001/talk-wenxin/fork) and create your branch from master
 2. If you've added code that should be tested, add tests!
 3. If you've changed APIs, update the documentation.
 4. Ensure the test suite passes (npm test).
